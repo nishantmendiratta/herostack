@@ -8,7 +8,7 @@
 
 <img style="float: left;" src="https://gemnasium.com/assets/logos/languages/bower-3f0a4b05c109d8323c00061e7756157a.png">
 
-<img style="width:64px;height:64px;float:left" src="https://camo.githubusercontent.com/fd1ea21338ceeef34920e44e97d099f3c47a78c3/687474703a2f2f6e6f64656d6f6e2e696f2f6e6f64656d6f6e2e737667" />
+<img src="https://avatars.githubusercontent.com/u/1630826?v=3&s=64"/>
 
 <div style="clear:both"></div>
 
