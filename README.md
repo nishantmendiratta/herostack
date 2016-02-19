@@ -39,4 +39,4 @@ $nodemon app.js
 Now open browser and use http://localhost:3000 to access you site.
 
 
-<small>Twitter - [@MrMendiratta](http://www.twitter.com/mrmendiratta)</small> &middot; <small><i>Inspired by [jcolemorrison blog post](http://start.jcolemorrison.com/how-i-setup-angular-node-projects/)</i></small>
+<sub><sup>*Twitter - [@MrMendiratta](http://www.twitter.com/mrmendiratta) &middot; Inspired by [jcolemorrison blog post](http://start.jcolemorrison.com/how-i-setup-angular-node-projects/)*</sub></sup>
