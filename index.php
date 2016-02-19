@@ -7,13 +7,13 @@
 <body>
   <h1 id="herostack-mean-stack-on-steroids">HeroStack {MEAN Stack on Steroids}</h1>
 
-<p><img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/angular.ico" alt="Angular" title=""> <br>
-<img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/node.png" alt="Node" title=""> <br>
-<img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/yuoman.png" alt="Yeoman" title=""> <br>
-<img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/bower.png" alt="Bower" title=""> <br>
-<img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/grunt.png" alt="Grunt" title=""></p>
+<p><img style="float:left" src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/angular.ico" alt="Angular" title=""> <br>
+<img  style="float:left" src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/node.png" alt="Node" title=""> <br>
+<img  style="float:left" src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/yuoman.png" alt="Yeoman" title=""> <br>
+<img  style="float:left" src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/bower.png" alt="Bower" title=""> <br>
+<img  style="float:left" src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/grunt.png" alt="Grunt" title=""></p>
 
-
+<div style="clear:both"></div>
 
 <h3 id="basic-useful-feature-list">Basic useful feature list:</h3>
 
