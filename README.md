@@ -1,6 +1,6 @@
 # HeroStack {MEAN Stack on Steroids}
 
-![Angular](https://www.angularjs.org/favicon.ico)
+![Angular](/logos/favicon.ico)
 ![Node](http://edcolosky.com/img/nodejs_64.png)
 ![Yeoman](https://wooster.checkmy.ws/assets/img/thumbs/post_sidebar/yeoman-logo.png)
 ![Bower](https://gemnasium.com/assets/logos/languages/bower-3f0a4b05c109d8323c00061e7756157a.png)
