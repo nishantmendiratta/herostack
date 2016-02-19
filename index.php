@@ -7,11 +7,11 @@
 <body>
   <h1 id="herostack-mean-stack-on-steroids">HeroStack {MEAN Stack on Steroids}</h1>
 
-<p><img src="https://github.com/nishantmendiratta/herostack/blob/master/logos/angular.ico" alt="Angular" title=""> <br>
-<img src="https://github.com/nishantmendiratta/herostack/blob/master/logos/node.png" alt="Node" title=""> <br>
-<img src="https://github.com/nishantmendiratta/herostack/blob/master/logos/yuoman.png" alt="Yeoman" title=""> <br>
-<img src="https://github.com/nishantmendiratta/herostack/blob/master/logos/bower.png" alt="Bower" title=""> <br>
-<img src="https://github.com/nishantmendiratta/herostack/blob/master/logos/grunt.png" alt="Grunt" title=""></p>
+<p><img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/angular.ico" alt="Angular" title=""> <br>
+<img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/node.png" alt="Node" title=""> <br>
+<img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/yuoman.png" alt="Yeoman" title=""> <br>
+<img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/bower.png" alt="Bower" title=""> <br>
+<img src="https://raw.githubusercontent.com/nishantmendiratta/herostack/master/logos/grunt.png" alt="Grunt" title=""></p>
 
 
 
