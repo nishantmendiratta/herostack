@@ -1,29 +1,23 @@
 # HeroStack {MEAN Stack on Steroids}
 
-<img style="float: left;" src="https://www.angularjs.org/favicon.ico">
-
-<img style="float: left;border-radius:46px;" src="http://www.bobix.co.uk/images/icon_nodejs.png">
-
-<img style="float: left;" src="https://wooster.checkmy.ws/assets/img/thumbs/post_sidebar/yeoman-logo.png">
-
-<img style="float: left;" src="https://gemnasium.com/assets/logos/languages/bower-3f0a4b05c109d8323c00061e7756157a.png">
-
-<img src="https://avatars.githubusercontent.com/u/1630826?v=3&s=64"/>
-
-<div style="clear:both"></div>
+![Angular](https://www.angularjs.org/favicon.ico)
+![Node](http://edcolosky.com/img/nodejs_64.png)
+![Yeoman](https://wooster.checkmy.ws/assets/img/thumbs/post_sidebar/yeoman-logo.png)
+![Bower](https://gemnasium.com/assets/logos/languages/bower-3f0a4b05c109d8323c00061e7756157a.png)
+![Grunt](https://avatars.githubusercontent.com/u/1630826?v=3&s=64)
 
 ### Basic useful feature list:
 
  * Full-Stack AngularJS + Node.js/Express Seed
  * Angular, AngularUI, Barbeque, Bootstrap, Bower, Browserify, Docker, Express, Font Awesome, Grunt, EJS, jQuery, JSHint, Karma/Mocha, LESS/LESSHat, Livereload, Lodash/Underscore
 
-| Dependency  									 | Installation  			 |
-| ---------------------------------------------- | ------------------------- |
-| Yeoman - Great scaffolder. saves TONS of time. | npm install -g yo 		 |
+| Dependency  									 | Installation  			 		 |
+| ---------------------------------------------- | ----------------------------------|
+| Yeoman - Great scaffolder. saves TONS of time. | npm install -g yo 		 		 |
 | Generator-Angular       						 | npm install -g generator-angular  |
-| Express       								 | npm install -g express    |
-| Nodemon (obviously)       					 | npm install -g nodemon    |
-| Bower       									 | npm install -g bower      |
+| Express       								 | npm install -g express     		 |
+| Nodemon (obviously)       					 | npm install -g nodemon    		 |
+| Bower       									 | npm install -g bower      		 |
 
 
 ### Folder Structure
