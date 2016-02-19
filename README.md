@@ -1,10 +1,10 @@
 # HeroStack {MEAN Stack on Steroids}
 
 ![Angular](https://github.com/nishantmendiratta/herostack/blob/master/logos/angular.ico)
-![Node](http://edcolosky.com/img/nodejs_64.png)
-![Yeoman](https://wooster.checkmy.ws/assets/img/thumbs/post_sidebar/yeoman-logo.png)
-![Bower](https://gemnasium.com/assets/logos/languages/bower-3f0a4b05c109d8323c00061e7756157a.png)
-![Grunt](https://avatars.githubusercontent.com/u/1630826?v=3&s=64)
+![Node](https://github.com/nishantmendiratta/herostack/blob/master/logos/node.png)
+![Yeoman](https://github.com/nishantmendiratta/herostack/blob/master/logos/yuoman.png)
+![Bower](https://github.com/nishantmendiratta/herostack/blob/master/logos/bower.png)
+![Grunt](https://github.com/nishantmendiratta/herostack/blob/master/logos/grunt.png)
 
 ### Basic useful feature list:
 
